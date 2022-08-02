@@ -13,9 +13,9 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='eisuke',
-    maintainer_email='eisuke@todo.todo',
-    description='TODO: Package description',
+    maintainer='sachan0v0',
+    maintainer_email='okwlb0v0sada@gmail.com',
+    description='image pub/sub',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
